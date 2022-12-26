@@ -1,0 +1,38 @@
+h1{
+   text-align: center;
+   color: red;
+}
+ .blok{
+    margin:auto ; 
+    width: 900px;
+    background-color:rgb(215, 193, 236) ;
+    padding: 20px;
+    border-radius: 20px;
+ }   
+ .menu a{
+    color: aqua;
+    text-decoration: none;
+    border: 2px solid red;
+    margin: 20px;
+    padding: 5px 10px;
+    
+ }
+.menu a:hover{
+    background: red;
+}
+.clic a{
+   color: rgb(230, 52, 7);
+   border: 2px solid green; 
+   text-decoration: none;
+   padding: 5px 10px;
+   margin: 10px;
+   
+}
+.clic a:hover{
+    text-decoration: underline;
+
+}
+
+
+
+
